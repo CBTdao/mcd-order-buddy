@@ -1,0 +1,15 @@
+# 环境变量与本地凭证 —— 绝不提交
+.env
+.env.local
+*.token
+mcp.json
+.token
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
